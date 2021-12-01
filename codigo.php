@@ -1,4 +1,5 @@
 <?
 echo "hola mundo";
-$num = 10;
+$num = 9;
+$numUno = 1;
 ?>
